@@ -17,16 +17,16 @@
         },
         {
           "@id": "#Aleksandra_Nenadic-1"
+        },
+        {
+          "@id": "#Person-1"
         }
-      ]
-    },
-    {
-      "@id": "ro-crate-metadata.json",
-      "@type": "CreativeWork",
-      "identifier": "ro-crate-metadata.json",
-      "about": {
-        "@id": "./"
-      }
+      ],
+      "temporalCoverage": "2024-10-26",
+      "contentLocation": {
+        "@id": "#Fantasy_Land-1"
+      },
+      "identifier": "https://doi.org/10.5281/zenodo.6532057"
     },
     {
       "@id": "#__Steve_Crouch-1",
@@ -37,6 +37,39 @@
       "@id": "#Aleksandra_Nenadic-1",
       "@type": "Person",
       "name": "Aleksandra_Nenadic-1"
+    },
+    {
+      "@id": "#Person-1",
+      "@type": "Person",
+      "name": "Xinyi",
+      "familyName": "Peng",
+      "affiliation": {
+        "@id": "https://ror.org/027m9bs27"
+      }
+    },
+    {
+      "@id": "#Fantasy_Land-1",
+      "@type": "Place",
+      "name": "Fantasy_Land"
+    },
+    {
+      "@id": "ro-crate-metadata.json",
+      "@type": "CreativeWork",
+      "identifier": "ro-crate-metadata.json",
+      "about": {
+        "@id": "./"
+      }
+    },
+    {
+      "@id": "#4",
+      "@type": "Person",
+      "name": "Xinyi",
+      "familyName": "Peng"
+    },
+    {
+      "@id": "https://ror.org/027m9bs27",
+      "@type": "Organization",
+      "name": "University of Manchester"
     }
   ]
 }

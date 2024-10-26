@@ -1,0 +1,42 @@
+{
+  "@context": [
+    "https://w3id.org/ro/crate/1.1/context",
+    {
+      "@vocab": "http://schema.org/"
+    }
+  ],
+  "@graph": [
+    {
+      "@id": "./",
+      "@type": "Dataset",
+      "name": "Python Intermediate Inflammation Analysis",
+      "description": "This research object contains code and data for analyzing and visualizing patient inflammation data using Python. It includes functions for loading, processing, and visualizing inflammation metrics, suitable for intermediate-level Python users.",
+      "author": [
+        {
+          "@id": "#__Steve_Crouch-1"
+        },
+        {
+          "@id": "#Aleksandra_Nenadic-1"
+        }
+      ]
+    },
+    {
+      "@id": "ro-crate-metadata.json",
+      "@type": "CreativeWork",
+      "identifier": "ro-crate-metadata.json",
+      "about": {
+        "@id": "./"
+      }
+    },
+    {
+      "@id": "#__Steve_Crouch-1",
+      "@type": "Person",
+      "name": "__Steve_Crouch-1"
+    },
+    {
+      "@id": "#Aleksandra_Nenadic-1",
+      "@type": "Person",
+      "name": "Aleksandra_Nenadic-1"
+    }
+  ]
+}
